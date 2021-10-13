@@ -14,9 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogha-maiya&show_icons=true&locale=en&layout=compact" alt="amogha-maiya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogha-maiya&show_icons=true&locale=en" alt="amogha-maiya" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogha-maiya&" alt="amogha-maiya" /></p>
-<br>
 
 
 
