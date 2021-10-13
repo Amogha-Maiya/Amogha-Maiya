@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Web & I enjoy Reading.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on Web & Dbms Projects.
-- 📫 Looking forward to connect with ya'll.
+- 📫 Looking forward to code.
 
 <!---
 Amogha-Maiya/Amogha-Maiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
