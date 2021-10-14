@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amogha-Maiya&theme=tokyonight&show_icons=true" alt="amogha-maiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogha-maiya&show_icons=true&locale=en" alt="amogha-maiya" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogha-maiya&" alt="amogha-maiya" /></p>
 
 
