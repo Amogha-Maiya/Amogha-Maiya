@@ -20,7 +20,7 @@
 
 <div style="padding-bottom:20px;"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogha-maiya&show_icons=true&locale=en&layout=compact" alt="amogha-maiya" /></p></div>
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amogha-maiya&show_icons=true&locale=en" alt="amogha-maiya" /></p></div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amogha-Maiya&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p><img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amogha-Maiya&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" /></p>
 
 
 
