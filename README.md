@@ -19,7 +19,7 @@
 <a href= https://github.com/Amogha-Maiya?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>&nbsp; </a>
 
 <div style="padding-bottom:20px;"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogha-maiya&show_icons=true&locale=en&layout=compact" alt="amogha-maiya" /></p></div>
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amogha-Maiya&hide=contribs,prs&theme=tokyonight
+<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amogha-Maiya&theme=dark&show_icons=true
 " alt="amogha-maiya" /></p></div>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Amogha-Maiya&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
