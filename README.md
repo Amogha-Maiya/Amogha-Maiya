@@ -18,7 +18,7 @@
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Amogha-Maiya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="amogha-maiya" /></p>
 
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Amogha-Maiya&theme=react-dark" alt="amogha-maiya" /></p>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Amogha-Maiya&theme=github" alt="amogha-maiya" /></p>
 
 <!---
 Amogha-Maiya/Amogha-Maiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
