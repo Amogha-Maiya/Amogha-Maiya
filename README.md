@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Amogha Mayya <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 60px></h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <h1 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="130px"></h1>
 <p align="left">
 <a href="https://twitter.com/amogha_maiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amogha_maiya" height="30" width="40" /></a>
