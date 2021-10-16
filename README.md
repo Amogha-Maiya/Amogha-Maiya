@@ -15,8 +15,8 @@
 <h1 align="left">Github Stats & Streaks:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amogha-Maiya&theme=tokyonight&show_icons=true" alt="amogha-maiya" /></p>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Amogha-Maiya&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="amogha-maiya" /></p>
-<h1 align="left">Github Language Card:</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogha-Maiya&theme=tokyonight" alt="amogha-maiya" /></p>
+<!-- <h1 align="left">Github Language Card:</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogha-Maiya&theme=tokyonight" alt="amogha-maiya" /></p> -->
 <h1 align="left">Github Contribution Graph:</h1>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Amogha-Maiya&theme=material-palenight&show_icons=true" alt="amogha-maiya" /></p>
 
