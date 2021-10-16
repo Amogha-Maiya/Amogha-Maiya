@@ -3,6 +3,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h1 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="130px"></h1>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Amogha-Maiya">
+</a>
+<a href="https://github.com/Amogha-Maiya?tab=followers"><img src="https://img.shields.io/github/followers/Amogha-Maiya?label=Followers&style=social" alt="GitHub Badge"></a>
 <p align="left">
 <a href="https://twitter.com/amogha_maiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amogha_maiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amogha mayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogha mayya" height="30" width="40" /></a>
