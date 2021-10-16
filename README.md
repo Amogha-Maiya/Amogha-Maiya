@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amogha Mayya</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="amogha-maiya" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="amogha-maiya" width="50px" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
