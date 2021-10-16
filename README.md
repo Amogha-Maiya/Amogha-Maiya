@@ -9,7 +9,7 @@
 <a href="https://instagram.com/amogha_maiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amogha_maiya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/amogha maiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amogha maiya" height="30" width="40" /></a>
 </p>
-## ❤ Views and Followers
+<h1 align="left">Views & Followers: </h1><br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Amogha-Maiya">
 </a>
