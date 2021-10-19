@@ -25,6 +25,6 @@
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Amogha-Maiya&theme=material-palenight&show_icons=true" alt="amogha-maiya" /></p>
 
 <!---
-Amogha-Maiya/Amogha-Maiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amogha-Maiya/Amogha-Maiya is a ✨ special and precious✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
